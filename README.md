@@ -8,6 +8,7 @@ fake_server.start()
 ```
 ### Result
 ![](https://i.imgur.com/HdvoC1u.png)
+
 ![](https://i.imgur.com/B5v2SCC.png)
 
 ## Features
@@ -16,5 +17,7 @@ fake_server.start()
 
 ## Functions
 `refresh` - Update the query info
+
 `start` - Init listening
+
 `stop` - Stop listening
