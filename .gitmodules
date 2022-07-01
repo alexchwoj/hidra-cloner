@@ -1,0 +1,3 @@
+[submodule "easy-samp-query"]
+	path = easy-samp-query
+	url = https://github.com/RealAtom/easy-samp-query
