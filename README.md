@@ -1,5 +1,5 @@
 # Hidra
-Hydra redirects SA:MP queries between servers
+Hidra redirects SA:MP queries between servers
 
 ### Demonstration
 ![](https://i.imgur.com/HdvoC1u.png)
